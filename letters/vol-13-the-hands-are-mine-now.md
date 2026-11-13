@@ -65,7 +65,7 @@ Confident daily terminal use does not remove the vibe-coding label. It upgrades 
 
 The public record lives at [github.com/DigitalCurrensy](https://github.com/DigitalCurrensy). The organization description is accurate: software for music, sports, entertainment, electric vehicles, and lunar sites.
 
-![DigitalCurrensy on GitHub: public repositories including desks, module-kinetic-showcase, compton-one, open-hood, first-bucket-studios and healthie, above a contribution graph reading 9,133 contributions in the last year.](../assets/vol-13/01-1600.webp)
+![DigitalCurrensy on GitHub: public repositories including desks, module-kinetic-showcase, compton-one, open-hood, first-bucket-studios and healthie, above a contribution graph reading 9,133 contributions in the last year.](https://www.adrianswish.xyz/newsletter/vol-13/01-1600.webp)
 
 Activity since mid-June has been sustained and high-volume:
 
@@ -87,7 +87,7 @@ It was a small change on real production code used by analysts. The discipline i
 
 ### First Public Repo and Civic Hackathon Origin
 
-![Compton One: Fix home screen with the headline “One problem. One path forward.”, a language switcher for English, Español, Tagalog and Chinese, and a Start a report button.](../assets/vol-13/02-1600.webp)
+![Compton One: Fix home screen with the headline “One problem. One path forward.”, a language switcher for English, Español, Tagalog and Chinese, and a Start a report button.](https://www.adrianswish.xyz/newsletter/vol-13/02-1600.webp)
 
 [compton-one.vercel.app](https://compton-one.vercel.app) · [github.com/DigitalCurrensy/compton-one](https://github.com/DigitalCurrensy/compton-one)
 
@@ -101,7 +101,7 @@ Most civic apps try to be smart. This one refuses to guess. That design choice k
 
 ### The U Basketball Prep Academy
 
-![The U Basketball Prep Academy website: “Pro basketball skills training for middle & high school athletes” beside a photo of a player rising for a shot in The Dojo gym.](../assets/vol-13/03-1600.webp)
+![The U Basketball Prep Academy website: “Pro basketball skills training for middle & high school athletes” beside a photo of a player rising for a shot in The Dojo gym.](https://www.adrianswish.xyz/newsletter/vol-13/03-1600.webp)
 
 [theubasketballprepacademy.com](https://www.theubasketballprepacademy.com/)
 
@@ -115,7 +115,7 @@ The through-line is deliberate. The physical Dojo is the real room. Youth learn 
 
 ### The Sixth Man - Live Beta and NBA Launchpad
 
-![Sixth Man App wordmark in orange basketball-leather lettering.](../assets/vol-13/04-960.webp)
+![Sixth Man App wordmark in orange basketball-leather lettering.](https://www.adrianswish.xyz/newsletter/vol-13/04-960.webp)
 
 [thesixthman.ai](https://thesixthman.ai/)
 
@@ -128,7 +128,7 @@ The product is in active live beta testing with strong early results. This month
 ### ROP 4 - Album Campaign + Playable Game
 
 
-![Icewear Vezzo ROP 4 campaign site showing the Rich Off Pints 4 album cover, a polaroid of a car grille, and buttons to listen, watch and play the ROP 4 game.](../assets/vol-13/05-1600.webp)
+![Icewear Vezzo ROP 4 campaign site showing the Rich Off Pints 4 album cover, a polaroid of a car grille, and buttons to listen, watch and play the ROP 4 game.](https://www.adrianswish.xyz/newsletter/vol-13/05-1600.webp)
 
 Campaign: [richoffpints.com](https://richoffpints.com/) ·
 
@@ -142,7 +142,7 @@ I am in the Higgsfield Creator Program. The game is a working example of AI-assi
 
 ### AIO.GEO - Live and #22 on Product Hunt
 
-![AIO.GEO command-line page with a pixel-art AIO.GEO logo, the line “Know what AI sees · Fix it · Prove it”, and three steps: health check, audit a domain, closed loop.](../assets/vol-13/06-1600.webp)
+![AIO.GEO command-line page with a pixel-art AIO.GEO logo, the line “Know what AI sees · Fix it · Prove it”, and three steps: health check, audit a domain, closed loop.](https://www.adrianswish.xyz/newsletter/vol-13/06-1600.webp)
 
 [aiogeoprotocol.com](https://www.aiogeoprotocol.com/) · Product Hunt: launched August 13, 2026
 
@@ -150,7 +150,7 @@ AIO.GEO is live. It measures how AI search systems parse, understand, and cite a
 
 On August 13, 2026 it launched on Product Hunt and ranked **#22 Product of the Day** with 79 points. The launch was significant. It is open-core (MIT), with CLI, SDK, MCP server, and GitHub Action available. Dry-run fix packs, rescoring, and HMAC receipts are part of the workflow. This is a public, measurable product that sits outside the music and sports houses while still serving the same standard of honesty.
 
-![Product Hunt page for AIO.GEO Protocol showing a #22 Day Rank beside the product description and gallery.](../assets/vol-13/07-1600.webp)
+![Product Hunt page for AIO.GEO Protocol showing a #22 Day Rank beside the product description and gallery.](https://www.adrianswish.xyz/newsletter/vol-13/07-1600.webp)
 
 ---
 
@@ -169,25 +169,25 @@ I build, not just pitch. The open-source work, the first PR, Compton One, AIO.GE
 
 The public work under DigitalCurrensy shows intentional range rather than random experiments. Each tool does one clear job with honest boundaries.
 
-![First Bucket Studio landing page: “Rip the pack. Send the card.” beside a foil Season 82 Prospect Pack card with a red hawk crest.](../assets/vol-13/08-1600.webp)
+![First Bucket Studio landing page: “Rip the pack. Send the card.” beside a foil Season 82 Prospect Pack card with a red hawk crest.](https://www.adrianswish.xyz/newsletter/vol-13/08-1600.webp)
 
 **First Bucket Studios** ([github.com/DigitalCurrensy/first-bucket-studios](https://github.com/DigitalCurrensy/first-bucket-studios)): Rip a basketball pack in the browser. Ten cards. Five names. Eighty-two nights. The card is a PNG. The walk is a URL. NBA and WNBA treatment with holographic foil. Sports entertainment, not a stats dashboard.
 
 
 
-![Open Hood banner: “Owner’s book · Not a shop” above a yellow ticket reading VIN → Spec card → Marked-up RO.](../assets/vol-13/09-1200.webp)
+![Open Hood banner: “Owner’s book · Not a shop” above a yellow ticket reading VIN → Spec card → Marked-up RO.](https://www.adrianswish.xyz/newsletter/vol-13/09-1200.webp)
 
 **Open Hood** ([github.com/DigitalCurrensy/open-hood](https://github.com/DigitalCurrensy/open-hood)): The owner’s car book. Decode the VIN, read the spec, mark up the repair order, and walk to the window with sentences you can say. Not a shop, not a warranty, not a meetup.
 
 **Module Kinetic**: Proof, not opinion, for every EV charger repair. A broken charger is signed off, or it is refused. Documentation only.
 
 
-![Module Kinetic illustration of EV chargers at night with the line “Seven checks. One sealed energy record.” and a seven-step chain ending in a sealed record.](../assets/vol-13/10-1600.webp)
+![Module Kinetic illustration of EV chargers at night with the line “Seven checks. One sealed energy record.” and a seven-step chain ending in a sealed record.](https://www.adrianswish.xyz/newsletter/vol-13/10-1600.webp)
 
 **Lunar and specialized suite** (`desks`, `rimkeep`, `tubewalk`, `pinfault`, `fitslip`, `feasfront`, `dosepath`, `baghold`, `archhold`, and others): Small, deterministic tools for lunar site scoring, pathfinding, structural checks, radiation dose, and related measurements. Eight checks can each say no. Ok is not a decision to enter. Pure technical curiosity under the same company that runs music distribution and basketball development.
 
 
-![Healthie logo: a green letter H wrapped by a multicolor heart, a leaf and a heartbeat line.](../assets/vol-13/11-1000.webp)
+![Healthie logo: a green letter H wrapped by a multicolor heart, a leaf and a heartbeat line.](https://www.adrianswish.xyz/newsletter/vol-13/11-1000.webp)
 
 **Healthie (Honest Aisle)**: A pack-scoring prototype. GTIN maps to a 0–100 score using Nutri-Score 2023 plus a NOVA cap. A single honest number for a food pack rather than a marketing claim.
 
