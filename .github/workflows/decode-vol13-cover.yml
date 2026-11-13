@@ -1,0 +1,39 @@
+name: decode-vol13-cover
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - assets/vol-13/cover.jpg.b64
+
+permissions:
+  contents: write
+
+jobs:
+  decode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - name: Decode JPEG and remove helpers
+        run: |
+          set -euo pipefail
+          test -f assets/vol-13/cover.jpg.b64
+          python3 -c '
+          import base64, pathlib
+          raw = pathlib.Path("assets/vol-13/cover.jpg.b64").read_text()
+          data = base64.b64decode(raw)
+          assert data[:3] == b"\xff\xd8\xff", data[:8]
+          pathlib.Path("assets/vol-13").mkdir(parents=True, exist_ok=True)
+          pathlib.Path("assets/vol-13/cover.jpg").write_bytes(data)
+          print("wrote", len(data), "bytes")
+          '
+          rm -f assets/vol-13/cover.jpg.b64
+          rm -f .github/workflows/decode-vol13-cover.yml
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A assets/vol-13/cover.jpg assets/vol-13/cover.jpg.b64 .github/workflows/decode-vol13-cover.yml
+          git commit -m "Store cinematic Vol. 13 cover as a JPEG"
+          git push

@@ -4,7 +4,7 @@ Letters by Adrian Swish.
 
 A letter every other Tuesday for people building in music, sports, entertainment, and AI. Talent creates the value. Compute and systems return it.
 
-![Value & Compute, Vol. 13 — The Hands Are Mine Now](https://www.adrianswish.xyz/newsletter/vol-13/og.jpg)
+![Value & Compute, Vol. 13 — The Hands Are Mine Now](assets/vol-13/cover.jpg)
 
 ## Letters
 
